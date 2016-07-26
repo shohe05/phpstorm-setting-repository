@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_BRACES" value="false" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+  </component>
+</application>

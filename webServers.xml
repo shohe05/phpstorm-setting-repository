@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="66d4906b-88ec-4a62-a0a8-545d2d5d9d07" name="laravel_env" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2222" privateKey="$USER_HOME$/work_2/laravel_env/.vagrant/machines/default/virtualbox/private_key" accessType="SFTP" username="vagrant" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

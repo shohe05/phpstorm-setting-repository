@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern="RepositoryServiceProvider" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping pattern=".stylelintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="Ochakul" type="PLAIN_TEXT" />
+      <mapping pattern="SmsMessageRepositoryInterface" type="PLAIN_TEXT" />
+      <mapping pattern="stress_test_with_reserved_device" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
