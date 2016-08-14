@@ -1,8 +1,8 @@
 <scheme name="Monokai copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
