@@ -1,16 +1,14 @@
 <scheme name="Monokai copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -59,7 +57,6 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="CLASS_NAME_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -393,7 +390,6 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
@@ -431,7 +427,7 @@
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -477,7 +473,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -851,7 +846,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -934,7 +928,6 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="fd971f" />
