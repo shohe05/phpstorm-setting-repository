@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
@@ -11,6 +11,7 @@
       <mapping pattern=".phpcs" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.develop-remote" type="PLAIN_TEXT" />
       <mapping pattern="Ochakul" type="PLAIN_TEXT" />
       <mapping pattern="SmsMessageRepositoryInterface" type="PLAIN_TEXT" />
       <mapping pattern="stress_test_with_reserved_device" type="PLAIN_TEXT" />
