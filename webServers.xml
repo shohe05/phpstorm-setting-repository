@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="66d4906b-88ec-4a62-a0a8-545d2d5d9d07" name="laravel_env" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" privateKey="$USER_HOME$/work_2/laravel_env/.vagrant/machines/default/virtualbox/private_key" accessType="SFTP" username="vagrant" keyPair="true">
+        <fileTransfer host="127.0.0.1" port="2222" privateKey="$USER_HOME$/work_2/laravel_env/.vagrant/machines/default/virtualbox/private_key" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcMaMwub4GmwgIE8DlwkgSScvqSTWZKyvgmEu9tB43LKsSdzti+YdLumtVyRxjpIWY1piUODn1gVHHASBuh4vnON8iLEXZ98msTNS1y9JGGQYwc0/j0KeeiNUA4PfQFeJemKEwgTFwd0Kwex/3D6KQ+QgTELbAZZFisEpZFBe1MUZ</data>
   </component>
 </application>
