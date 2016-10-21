@@ -1,4 +1,13 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="shift l" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="shift h" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
