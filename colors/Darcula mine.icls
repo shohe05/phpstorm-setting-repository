@@ -3,22 +3,37 @@
     <property name="created">2016-10-22T23:47:47</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-10-22T23:52:23</property>
+    <property name="modified">2016-10-23T00:15:22</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
+    <option name="PHP_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="5a8d96" />
+      </value>
+    </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4a91d3" />
+        <option name="FOREGROUND" value="438fb3" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="5cabdd" />
       </value>
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="77b75b" />
+        <option name="FOREGROUND" value="537831" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="efefef" />
       </value>
     </option>
   </attributes>
