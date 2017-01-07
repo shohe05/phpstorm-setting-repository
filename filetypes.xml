@@ -17,6 +17,7 @@
       <mapping pattern="61ba6a3439ba6e516cb6038f646160e4" type="PLAIN_TEXT" />
       <mapping pattern="c3260a653c89ab20923800aca3aade14" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="brew" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
