@@ -13,6 +13,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="phpunit/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".phpcs" type="PLAIN_TEXT" />
+      <mapping pattern="artisan/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.develop-remote" type="PLAIN_TEXT" />
       <mapping pattern="Ochakul" type="PLAIN_TEXT" />
