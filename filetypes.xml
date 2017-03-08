@@ -6,6 +6,7 @@
       <mapping pattern="RepositoryServiceProvider" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping pattern="redis/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="npm/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
